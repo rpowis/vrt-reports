@@ -1,11 +1,11 @@
 [View the report](https://rpowis.github.io/vrt-reports/01-add-content__body-to-comp-lib/report/index.html)
 
-# Baseline
+# Reference
 
-* assets-frontend/master
-* component-library-template/master
+* [assets-frontend/master](https://github.com/hmrc/assets-frontend/tree/master)
+* [component-library-template/content-body](https://github.com/hmrc/component-library-template/tree/master)
 
-# Compare
+# Test
 
-* assets-frontend/master
-* component-library-template/content-body
+* [assets-frontend/master](https://github.com/hmrc/assets-frontend/tree/master)
+* [component-library-template/content-body](https://github.com/hmrc/component-library-template/tree/content-body)
