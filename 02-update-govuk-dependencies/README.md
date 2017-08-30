@@ -1,3 +1,5 @@
+[View the report](https://rpowis.github.io/vrt-reports/02-update-govuk-dependencies/report/index.html)
+
 # Baseline
 
 * assets-frontend/master
